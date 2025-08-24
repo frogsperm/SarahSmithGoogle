@@ -1,2 +1,2 @@
 # SarahSmithGoogle
-[link text](https://google.com)
+[Google.com](https://google.com)
